@@ -1,0 +1,17 @@
+{
+    "rewrites": [
+      {
+        "source": "/",
+        "destination": "/"
+      },
+      {
+        "source": "/getstarted/:slug*",
+        "destination": "/getstarted/:slug*"
+      },
+      {
+        "source": "/(.*)",
+        "destination": "/"
+      }
+    ]
+  }
+  
