@@ -24,20 +24,20 @@ const Footer: React.FC = () => {
             width={100}
             height={75}
           />
-          <Text>Call: 8108900332</Text>
+          <Text>Call: +2348183219693</Text>
           <Text>Mail: info.@carefinder.com.org</Text>
           <Text>Follow us on Social Media</Text>
           <Flex justify="space-between" width={{ base: 'full', md: '75%' }} my={6}>
-            <Link href="https://x.com/Adeyemi_fathia_" isExternal>
+            <Link href="https://x.com/samueloyelaran4" isExternal>
               <FaTwitter size="24" className="hover:text-gray-600" />
             </Link>
-            <Link href="https://linkedin.com/in/adeyemi-fathia-a73908270" isExternal>
+            <Link href="https://www.linkedin.com/in/samuel-oyelaran-acarb-b7611a153" isExternal>
               <FiLinkedin size="24" className="hover:text-gray-600"/>
             </Link>
-            <Link href="https://github.com/Faateeha" isExternal>
+            <Link href="https://github.com/Samuel-Oyelaran" isExternal>
               <SiGithub size="24" className="hover:text-gray-600"/>
             </Link>
-            <Link href="mailto:fathiaomolara02@gmail.com" isExternal>
+            <Link href="mailto:samueloyelaran4@gmail.com" isExternal>
               <MdOutlineMailOutline size="24" className="hover:text-gray-600"/>
             </Link>
           </Flex>
