@@ -35,7 +35,7 @@ const sections = [
   },
   {
     title: "Get Started",
-    description: "Quickly sign up and start exploring.",
+    description: "Sign up swiftly and and start exploring.",
   },
   {
     title: "Markdown Support",
